@@ -67,6 +67,7 @@ Algoritmo Hackaton8
 			Escribir "a continuacion ingrese el numeros para calcular el area de una circunferencia"
 			Escribir "Ingrese  el radio"
 			Leer a;
+			circunferencia(a);
 		6:
 			Escribir "a continuacion se le pedira las hora trabajadas y el precio por hora"
 			Escribir "Ingrese las horas trabajadas"
@@ -237,6 +238,7 @@ Funcion nAprobados(a)
 	Escribir "El numero de aprobado es: " aprobados;
 	Escribir "El numero de reprobados es: " reprobados;
 FinFuncion
+
 Funcion focos()
 	Escribir "Aun no lo termino"
 FinFuncion
