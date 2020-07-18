@@ -155,7 +155,7 @@ Funcion circunferencia(a)
 FinFuncion
 
 Funcion salario(a,b)
-	Escribir "El salario semanal a pagar es: " a*b "Soles";
+	Escribir "El salario semanal a pagar es: " (a*b)*7 "Soles";
 FinFuncion
 
 Funcion metros(a)
